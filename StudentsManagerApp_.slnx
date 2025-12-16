@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/others/">
+    <File Path=".gitignore" />
+    <File Path="compose.yaml" />
+  </Folder>
   <Project Path="StudentsManagerApp_/StudentsManagerApp_.csproj" />
 </Solution>
